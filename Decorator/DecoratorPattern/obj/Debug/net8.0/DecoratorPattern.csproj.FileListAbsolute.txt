@@ -1,0 +1,14 @@
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Decorator\DecoratorPattern\bin\Debug\net8.0\DecoratorPattern.exe
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Decorator\DecoratorPattern\bin\Debug\net8.0\DecoratorPattern.deps.json
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Decorator\DecoratorPattern\bin\Debug\net8.0\DecoratorPattern.runtimeconfig.json
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Decorator\DecoratorPattern\bin\Debug\net8.0\DecoratorPattern.dll
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Decorator\DecoratorPattern\bin\Debug\net8.0\DecoratorPattern.pdb
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Decorator\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Decorator\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.AssemblyInfoInputs.cache
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Decorator\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.AssemblyInfo.cs
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Decorator\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.csproj.CoreCompileInputs.cache
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Decorator\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.dll
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Decorator\DecoratorPattern\obj\Debug\net8.0\refint\DecoratorPattern.dll
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Decorator\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.pdb
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Decorator\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.genruntimeconfig.cache
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Decorator\DecoratorPattern\obj\Debug\net8.0\ref\DecoratorPattern.dll

@@ -1,0 +1,14 @@
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Facade\FacadePattern\bin\Debug\net8.0\FacadePattern.exe
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Facade\FacadePattern\bin\Debug\net8.0\FacadePattern.deps.json
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Facade\FacadePattern\bin\Debug\net8.0\FacadePattern.runtimeconfig.json
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Facade\FacadePattern\bin\Debug\net8.0\FacadePattern.dll
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Facade\FacadePattern\bin\Debug\net8.0\FacadePattern.pdb
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Facade\FacadePattern\obj\Debug\net8.0\FacadePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Facade\FacadePattern\obj\Debug\net8.0\FacadePattern.AssemblyInfoInputs.cache
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Facade\FacadePattern\obj\Debug\net8.0\FacadePattern.AssemblyInfo.cs
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Facade\FacadePattern\obj\Debug\net8.0\FacadePattern.csproj.CoreCompileInputs.cache
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Facade\FacadePattern\obj\Debug\net8.0\FacadePattern.dll
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Facade\FacadePattern\obj\Debug\net8.0\refint\FacadePattern.dll
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Facade\FacadePattern\obj\Debug\net8.0\FacadePattern.pdb
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Facade\FacadePattern\obj\Debug\net8.0\FacadePattern.genruntimeconfig.cache
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Facade\FacadePattern\obj\Debug\net8.0\ref\FacadePattern.dll

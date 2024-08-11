@@ -1,0 +1,14 @@
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Prototype\PrototypePattern\bin\Debug\net8.0\PrototypePattern.exe
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Prototype\PrototypePattern\bin\Debug\net8.0\PrototypePattern.deps.json
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Prototype\PrototypePattern\bin\Debug\net8.0\PrototypePattern.runtimeconfig.json
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Prototype\PrototypePattern\bin\Debug\net8.0\PrototypePattern.dll
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Prototype\PrototypePattern\bin\Debug\net8.0\PrototypePattern.pdb
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Prototype\PrototypePattern\obj\Debug\net8.0\PrototypePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Prototype\PrototypePattern\obj\Debug\net8.0\PrototypePattern.AssemblyInfoInputs.cache
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Prototype\PrototypePattern\obj\Debug\net8.0\PrototypePattern.AssemblyInfo.cs
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Prototype\PrototypePattern\obj\Debug\net8.0\PrototypePattern.csproj.CoreCompileInputs.cache
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Prototype\PrototypePattern\obj\Debug\net8.0\PrototypePattern.dll
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Prototype\PrototypePattern\obj\Debug\net8.0\refint\PrototypePattern.dll
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Prototype\PrototypePattern\obj\Debug\net8.0\PrototypePattern.pdb
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Prototype\PrototypePattern\obj\Debug\net8.0\PrototypePattern.genruntimeconfig.cache
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Prototype\PrototypePattern\obj\Debug\net8.0\ref\PrototypePattern.dll

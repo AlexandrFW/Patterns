@@ -1,0 +1,14 @@
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Flyweight\FlyweightPattern\bin\Debug\net8.0\FlyweightPattern.exe
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Flyweight\FlyweightPattern\bin\Debug\net8.0\FlyweightPattern.deps.json
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Flyweight\FlyweightPattern\bin\Debug\net8.0\FlyweightPattern.runtimeconfig.json
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Flyweight\FlyweightPattern\bin\Debug\net8.0\FlyweightPattern.dll
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Flyweight\FlyweightPattern\bin\Debug\net8.0\FlyweightPattern.pdb
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Flyweight\FlyweightPattern\obj\Debug\net8.0\FlyweightPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Flyweight\FlyweightPattern\obj\Debug\net8.0\FlyweightPattern.AssemblyInfoInputs.cache
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Flyweight\FlyweightPattern\obj\Debug\net8.0\FlyweightPattern.AssemblyInfo.cs
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Flyweight\FlyweightPattern\obj\Debug\net8.0\FlyweightPattern.csproj.CoreCompileInputs.cache
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Flyweight\FlyweightPattern\obj\Debug\net8.0\FlyweightPattern.dll
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Flyweight\FlyweightPattern\obj\Debug\net8.0\refint\FlyweightPattern.dll
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Flyweight\FlyweightPattern\obj\Debug\net8.0\FlyweightPattern.pdb
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Flyweight\FlyweightPattern\obj\Debug\net8.0\FlyweightPattern.genruntimeconfig.cache
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Flyweight\FlyweightPattern\obj\Debug\net8.0\ref\FlyweightPattern.dll

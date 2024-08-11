@@ -1,0 +1,14 @@
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Composite\CompositePattern\bin\Debug\net8.0\CompositePattern.exe
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Composite\CompositePattern\bin\Debug\net8.0\CompositePattern.deps.json
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Composite\CompositePattern\bin\Debug\net8.0\CompositePattern.runtimeconfig.json
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Composite\CompositePattern\bin\Debug\net8.0\CompositePattern.dll
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Composite\CompositePattern\bin\Debug\net8.0\CompositePattern.pdb
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Composite\CompositePattern\obj\Debug\net8.0\CompositePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Composite\CompositePattern\obj\Debug\net8.0\CompositePattern.AssemblyInfoInputs.cache
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Composite\CompositePattern\obj\Debug\net8.0\CompositePattern.AssemblyInfo.cs
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Composite\CompositePattern\obj\Debug\net8.0\CompositePattern.csproj.CoreCompileInputs.cache
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Composite\CompositePattern\obj\Debug\net8.0\CompositePattern.dll
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Composite\CompositePattern\obj\Debug\net8.0\refint\CompositePattern.dll
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Composite\CompositePattern\obj\Debug\net8.0\CompositePattern.pdb
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Composite\CompositePattern\obj\Debug\net8.0\CompositePattern.genruntimeconfig.cache
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Composite\CompositePattern\obj\Debug\net8.0\ref\CompositePattern.dll

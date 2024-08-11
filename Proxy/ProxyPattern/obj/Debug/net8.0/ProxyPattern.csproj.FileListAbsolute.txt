@@ -1,0 +1,14 @@
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Proxy\ProxyPattern\obj\Debug\net8.0\ProxyPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Proxy\ProxyPattern\obj\Debug\net8.0\ProxyPattern.AssemblyInfoInputs.cache
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Proxy\ProxyPattern\obj\Debug\net8.0\ProxyPattern.AssemblyInfo.cs
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Proxy\ProxyPattern\obj\Debug\net8.0\ProxyPattern.csproj.CoreCompileInputs.cache
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Proxy\ProxyPattern\bin\Debug\net8.0\ProxyPattern.exe
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Proxy\ProxyPattern\bin\Debug\net8.0\ProxyPattern.deps.json
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Proxy\ProxyPattern\bin\Debug\net8.0\ProxyPattern.runtimeconfig.json
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Proxy\ProxyPattern\bin\Debug\net8.0\ProxyPattern.dll
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Proxy\ProxyPattern\bin\Debug\net8.0\ProxyPattern.pdb
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Proxy\ProxyPattern\obj\Debug\net8.0\ProxyPattern.dll
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Proxy\ProxyPattern\obj\Debug\net8.0\refint\ProxyPattern.dll
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Proxy\ProxyPattern\obj\Debug\net8.0\ProxyPattern.pdb
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Proxy\ProxyPattern\obj\Debug\net8.0\ProxyPattern.genruntimeconfig.cache
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Proxy\ProxyPattern\obj\Debug\net8.0\ref\ProxyPattern.dll

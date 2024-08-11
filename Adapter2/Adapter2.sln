@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdapterPatternClass", "AdapterPatternClass\AdapterPatternClass.csproj", "{3D21630C-3D49-4435-8532-28D48284C90F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D21630C-3D49-4435-8532-28D48284C90F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D21630C-3D49-4435-8532-28D48284C90F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D21630C-3D49-4435-8532-28D48284C90F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D21630C-3D49-4435-8532-28D48284C90F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AFF5EB5-68EC-446A-99B8-BAD01F5C8335}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Adapter\AdapterPattern\bin\Debug\net8.0\AdapterPattern.exe
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Adapter\AdapterPattern\bin\Debug\net8.0\AdapterPattern.deps.json
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Adapter\AdapterPattern\bin\Debug\net8.0\AdapterPattern.runtimeconfig.json
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Adapter\AdapterPattern\bin\Debug\net8.0\AdapterPattern.dll
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Adapter\AdapterPattern\bin\Debug\net8.0\AdapterPattern.pdb
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Adapter\AdapterPattern\obj\Debug\net8.0\AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Adapter\AdapterPattern\obj\Debug\net8.0\AdapterPattern.AssemblyInfoInputs.cache
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Adapter\AdapterPattern\obj\Debug\net8.0\AdapterPattern.AssemblyInfo.cs
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Adapter\AdapterPattern\obj\Debug\net8.0\AdapterPattern.csproj.CoreCompileInputs.cache
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Adapter\AdapterPattern\obj\Debug\net8.0\AdapterPattern.dll
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Adapter\AdapterPattern\obj\Debug\net8.0\refint\AdapterPattern.dll
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Adapter\AdapterPattern\obj\Debug\net8.0\AdapterPattern.pdb
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Adapter\AdapterPattern\obj\Debug\net8.0\AdapterPattern.genruntimeconfig.cache
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Adapter\AdapterPattern\obj\Debug\net8.0\ref\AdapterPattern.dll

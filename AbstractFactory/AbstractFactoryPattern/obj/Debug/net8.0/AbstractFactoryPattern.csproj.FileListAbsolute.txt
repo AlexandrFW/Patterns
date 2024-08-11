@@ -1,0 +1,14 @@
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\AbstractFactory\AbstractFactoryPattern\bin\Debug\net8.0\AbstractFactoryPattern.exe
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\AbstractFactory\AbstractFactoryPattern\bin\Debug\net8.0\AbstractFactoryPattern.deps.json
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\AbstractFactory\AbstractFactoryPattern\bin\Debug\net8.0\AbstractFactoryPattern.runtimeconfig.json
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\AbstractFactory\AbstractFactoryPattern\bin\Debug\net8.0\AbstractFactoryPattern.dll
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\AbstractFactory\AbstractFactoryPattern\bin\Debug\net8.0\AbstractFactoryPattern.pdb
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\AbstractFactory\AbstractFactoryPattern\obj\Debug\net8.0\AbstractFactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\AbstractFactory\AbstractFactoryPattern\obj\Debug\net8.0\AbstractFactoryPattern.AssemblyInfoInputs.cache
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\AbstractFactory\AbstractFactoryPattern\obj\Debug\net8.0\AbstractFactoryPattern.AssemblyInfo.cs
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\AbstractFactory\AbstractFactoryPattern\obj\Debug\net8.0\AbstractFactoryPattern.csproj.CoreCompileInputs.cache
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\AbstractFactory\AbstractFactoryPattern\obj\Debug\net8.0\AbstractFactoryPattern.dll
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\AbstractFactory\AbstractFactoryPattern\obj\Debug\net8.0\refint\AbstractFactoryPattern.dll
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\AbstractFactory\AbstractFactoryPattern\obj\Debug\net8.0\AbstractFactoryPattern.pdb
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\AbstractFactory\AbstractFactoryPattern\obj\Debug\net8.0\AbstractFactoryPattern.genruntimeconfig.cache
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\AbstractFactory\AbstractFactoryPattern\obj\Debug\net8.0\ref\AbstractFactoryPattern.dll

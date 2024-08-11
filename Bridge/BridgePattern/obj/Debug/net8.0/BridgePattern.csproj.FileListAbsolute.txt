@@ -1,0 +1,14 @@
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Bridge\BridgePattern\bin\Debug\net8.0\BridgePattern.exe
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Bridge\BridgePattern\bin\Debug\net8.0\BridgePattern.deps.json
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Bridge\BridgePattern\bin\Debug\net8.0\BridgePattern.runtimeconfig.json
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Bridge\BridgePattern\bin\Debug\net8.0\BridgePattern.dll
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Bridge\BridgePattern\bin\Debug\net8.0\BridgePattern.pdb
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Bridge\BridgePattern\obj\Debug\net8.0\BridgePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Bridge\BridgePattern\obj\Debug\net8.0\BridgePattern.AssemblyInfoInputs.cache
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Bridge\BridgePattern\obj\Debug\net8.0\BridgePattern.AssemblyInfo.cs
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Bridge\BridgePattern\obj\Debug\net8.0\BridgePattern.csproj.CoreCompileInputs.cache
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Bridge\BridgePattern\obj\Debug\net8.0\BridgePattern.dll
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Bridge\BridgePattern\obj\Debug\net8.0\refint\BridgePattern.dll
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Bridge\BridgePattern\obj\Debug\net8.0\BridgePattern.pdb
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Bridge\BridgePattern\obj\Debug\net8.0\BridgePattern.genruntimeconfig.cache
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Bridge\BridgePattern\obj\Debug\net8.0\ref\BridgePattern.dll

@@ -1,0 +1,14 @@
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Iterator\IteratorPattern\obj\Debug\net8.0\IteratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Iterator\IteratorPattern\obj\Debug\net8.0\IteratorPattern.AssemblyInfoInputs.cache
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Iterator\IteratorPattern\obj\Debug\net8.0\IteratorPattern.AssemblyInfo.cs
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Iterator\IteratorPattern\obj\Debug\net8.0\IteratorPattern.csproj.CoreCompileInputs.cache
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Iterator\IteratorPattern\bin\Debug\net8.0\IteratorPattern.exe
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Iterator\IteratorPattern\bin\Debug\net8.0\IteratorPattern.deps.json
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Iterator\IteratorPattern\bin\Debug\net8.0\IteratorPattern.runtimeconfig.json
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Iterator\IteratorPattern\bin\Debug\net8.0\IteratorPattern.dll
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Iterator\IteratorPattern\bin\Debug\net8.0\IteratorPattern.pdb
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Iterator\IteratorPattern\obj\Debug\net8.0\IteratorPattern.dll
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Iterator\IteratorPattern\obj\Debug\net8.0\refint\IteratorPattern.dll
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Iterator\IteratorPattern\obj\Debug\net8.0\IteratorPattern.pdb
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Iterator\IteratorPattern\obj\Debug\net8.0\IteratorPattern.genruntimeconfig.cache
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\Iterator\IteratorPattern\obj\Debug\net8.0\ref\IteratorPattern.dll

@@ -1,0 +1,14 @@
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\ChainOfResponsibility\ChainOfResponsibilityPattern\bin\Debug\net8.0\ChainOfResponsibilityPattern.exe
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\ChainOfResponsibility\ChainOfResponsibilityPattern\bin\Debug\net8.0\ChainOfResponsibilityPattern.deps.json
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\ChainOfResponsibility\ChainOfResponsibilityPattern\bin\Debug\net8.0\ChainOfResponsibilityPattern.runtimeconfig.json
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\ChainOfResponsibility\ChainOfResponsibilityPattern\bin\Debug\net8.0\ChainOfResponsibilityPattern.dll
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\ChainOfResponsibility\ChainOfResponsibilityPattern\bin\Debug\net8.0\ChainOfResponsibilityPattern.pdb
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\ChainOfResponsibility\ChainOfResponsibilityPattern\obj\Debug\net8.0\ChainOfResponsibilityPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\ChainOfResponsibility\ChainOfResponsibilityPattern\obj\Debug\net8.0\ChainOfResponsibilityPattern.AssemblyInfoInputs.cache
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\ChainOfResponsibility\ChainOfResponsibilityPattern\obj\Debug\net8.0\ChainOfResponsibilityPattern.AssemblyInfo.cs
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\ChainOfResponsibility\ChainOfResponsibilityPattern\obj\Debug\net8.0\ChainOfResponsibilityPattern.csproj.CoreCompileInputs.cache
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\ChainOfResponsibility\ChainOfResponsibilityPattern\obj\Debug\net8.0\ChainOfResponsibilityPattern.dll
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\ChainOfResponsibility\ChainOfResponsibilityPattern\obj\Debug\net8.0\refint\ChainOfResponsibilityPattern.dll
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\ChainOfResponsibility\ChainOfResponsibilityPattern\obj\Debug\net8.0\ChainOfResponsibilityPattern.pdb
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\ChainOfResponsibility\ChainOfResponsibilityPattern\obj\Debug\net8.0\ChainOfResponsibilityPattern.genruntimeconfig.cache
+C:\Dev\C#_Projects\C#_Projects\Learning\Patterns\ChainOfResponsibility\ChainOfResponsibilityPattern\obj\Debug\net8.0\ref\ChainOfResponsibilityPattern.dll
